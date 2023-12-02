@@ -35,7 +35,6 @@ public:
             else if (arr[mid] < key)
             {
                 low = mid + 1;
-                
             }
             else if (arr[mid] > key)
             {
